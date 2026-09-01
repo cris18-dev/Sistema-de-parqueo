@@ -1,0 +1,6 @@
+{
+  "name": "Parqueadero Público",
+  "description": "Sistema de gestión y control para Parqueadero Público",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
